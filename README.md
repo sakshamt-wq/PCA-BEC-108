@@ -1,4 +1,4 @@
-<<<<<<< HEAD PCA on Gene Expression Data  Overview In this project, we explore how Principal Component Analysis (PCA) can help us understand patterns in gene expression data, specifically for breast cancer patients.
+HEAD PCA on Gene Expression Data  Overview In this project, we explore how Principal Component Analysis (PCA) can help us understand patterns in gene expression data, specifically for breast cancer patients.
 
 Instead of just looking at thousands of genes individually, PCA helps reduce the complexity and lets us visualize meaningful patterns in a simpler way.
 
